@@ -1,5 +1,7 @@
 # Combined-Cycle-Power-Plant-Energy-Prediction-Machine-Learning-Project-
 
+## Author: Akinfela Babatunde Bernard — Data Analyst, BI Developer and Data Scientist / ML Engineer
+
 ## Project Overview
 
 This project focuses on developing a Machine Learning model to accurately predict the **net hourly electrical energy output (EP)** of a **Combined Cycle Power Plant (CCPP)** operating under full load conditions.
@@ -62,9 +64,18 @@ This project validates that **environmental ambient variables are strongly predi
 
 ---
 
-Let me know if you want me to add:
+## Deployment Strategy
 
-* Deployment / future improvements section
-* Visualization or residual analysis explanation
-* README‑friendly version with bullet format
+This model can be deployed as a RESTful API using Flask or FastAPI, allowing real-time energy predictions based on live sensor inputs from the power plant. For practical demonstration, it can also be wrapped in a Streamlit or Dash web interface for interactive forecasting by engineers. Further scalability can be achieved by containerizing with Docker and hosting on AWS / Azure / Render.
 
+## Future Improvements
+
+Integrate XGBoost / LightGBM for higher predictive performance.
+
+Deploy as a real-time monitoring system connected to plant SCADA infrastructure.
+
+Add feature importance + SHAP interpretation for explainability.
+
+Build an interactive dashboard for plant operators.
+
+Extend model to handle time-series forecasting and predictive maintenance.
