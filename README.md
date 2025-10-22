@@ -1,5 +1,4 @@
 # Combined-Cycle-Power-Plant-Energy-Prediction-Machine-Learning-Project-
-# Combined Cycle Power Plant Energy Output Prediction
 
 ## Project Overview
 
