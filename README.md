@@ -54,9 +54,11 @@ The dataset contains **9,568 real operational data points (2006–2011)**.
 
 ## Key Results
 
-✅ **Highly accurate model for real-world prediction**
-✅ **Errors within acceptable engineering tolerance (±5 MW)**
-✅ **Performance suitable for deployment in energy forecasting systems**
+ **Highly accurate model for real-world prediction**
+ 
+**Errors within acceptable engineering tolerance (±5 MW)**
+ 
+**Performance suitable for deployment in energy forecasting systems**
 
 ## Summary Insight
 
